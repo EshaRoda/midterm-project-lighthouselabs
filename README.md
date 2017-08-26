@@ -1,4 +1,4 @@
-# Esha's "Daily Plan-It!" Group Midterm Project (Lighthouse Labs)
+# "Smart To-Do List!" Group Midterm Project (Lighthouse Labs)
 
 ## Project Goals (as provided by Lighthouse Labs)
 
