@@ -1,5 +1,7 @@
 # "Smart To-Do List!" Group Midterm Project (Lighthouse Labs)
 
+Group Members: Jonathan, Shahab, Esha
+
 ## Project Goals (as provided by Lighthouse Labs)
 
 - Build a web app from start to finish using the tech and approaches learned to date
