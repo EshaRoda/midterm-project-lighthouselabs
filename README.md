@@ -1,6 +1,6 @@
 # "Smart To-Do List!" Group Midterm Project (Lighthouse Labs)
 
-Group Members: Jonathan, Shahab, Esha
+Group Members: Esha, Jonathan, Shahab
 
 ## Project Goals (as provided by Lighthouse Labs)
 
